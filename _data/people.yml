@@ -1,6 +1,6 @@
 instructors:
   - name: Dr. Maryam Ramezani
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /_images/pp/ramezani.jpg
     webpage: https://www.linkedin.com/in/maryam-ramezani-a25ba71ab/
 
 teaching_assistants:
@@ -15,3 +15,7 @@ teaching_assistants:
   - name: Ehsan Rahmani
     profile_pic: /_images/pp/ehsan.jpg
     webpage: https://www.linkedin.com/in/ehsan-rahmani-miyab/
+
+  - name: Amirhossein Azizi
+    profile_pic: /_images/pp/azizi.jpg
+    webpage: https://www.linkedin.com/in/azizi-amirhossein/
