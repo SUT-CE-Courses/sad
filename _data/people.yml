@@ -1,19 +1,17 @@
 instructors:
-  - name: Albus Dumbledore
+  - name: Dr. Maryam Ramezani
     profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+    webpage: https://www.linkedin.com/in/maryam-ramezani-a25ba71ab/
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Shayan Shabani
+    profile_pic: /_images/pp/shayanshabani.jpeg
+    webpage: https://www.linkedin.com/in/mohammad-shayan-s-738738219/
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: Shahab Hosseini
+    profile_pic: /_images/pp/shahab.jpg
+    webpage: https://www.linkedin.com/in/shahab-hosseini-moghaddam-286ba91ba/
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Ehsan Rahmani
+    profile_pic: /_images/pp/ehsan.jpg
+    webpage: https://www.linkedin.com/in/ehsan-rahmani-miyab/

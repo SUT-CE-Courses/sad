@@ -1,7 +1,7 @@
 # Site settings
 course_name: System Analysis and Design
 course_description: "Just as solving a mathematical problem requires identifying its complexities and designing appropriate strategies before arriving at a solution, developing computer systems for a diverse user base demands thorough analysis and design. In this course, students will learn essential skills in requirements analysis, feasibility analysis, modeling, process analysis, architecture design, and UI/UX design. Additionally, the course covers planning and management skills necessary for software development, including methodologies, process automation, and project management concepts."
-course_semester: "Spring 2024"
+course_semester: "Fall 2024"
 
 baseurl: "/sad" # the subpath of your site, e.g. /blog/
 url: "http://sut-ce-courses.github.io/" # the base hostname & protocol for your site
