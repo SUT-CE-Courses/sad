@@ -140,7 +140,6 @@ permalink: /syllabus/
     <tr style="background-color:#b2ffb2">
         <td>1403/09/25</td>
         <td>S25</td>
-        <td></td>
         <td>UI/UX Design</td>
     </tr>
     <tr style="background-color:#b2ffb2">
