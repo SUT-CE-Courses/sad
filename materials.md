@@ -8,7 +8,7 @@ permalink: /materials/
 
 ## Book
 
-Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth Rubin
+[Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth Rubin](/assets/essential-scrum.pdf)
 
 ## Additional Course Materials
 
