@@ -9,7 +9,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: /static_files/presentations/01-Project.pdf
+    - url: /static_files/presentations/1-Project.pdf
       name: slides
 hide_from_announcments: true
 
