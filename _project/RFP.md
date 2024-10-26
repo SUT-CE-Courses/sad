@@ -1,5 +1,5 @@
 ---
-type: page
+type: project
 date: 1403-07-15T8:00:00+4:30
 title: RFP
 tldr: "Request for Proposal"
