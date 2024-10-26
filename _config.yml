@@ -38,7 +38,7 @@ collections:
         output: true
     lectures:
         output: true
-    project:
+    assignments:
         output: true
     announcements:
         output: false
