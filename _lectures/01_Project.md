@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 1403-07-15T8:00:00+4:30
-title: Project
+title: Lecture 1
 tldr: "Course's Project Plan"
 thumbnail: /static_files/presentations/1-Project.png
 links: 
