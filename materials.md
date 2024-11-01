@@ -10,9 +10,17 @@ permalink: /materials/
 
 [Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth Rubin](/assets/essential-scrum.pdf)
 
+## Workshops
+
+### Back-end
+* [Back-end Workshop](https://drive.google.com/drive/folders/10-E3FIABwSXPtrkhRGJdJ7GcH1Qiz3yN): Back-end workshop on Django framework, thanks to Ehsan Rahmani, Amir Kooshky, and Ehsan Movaffagh.
+
+### Git
+* [Git Workshop](https://aparat.com/v/POj9h)
+
 ## Additional Course Materials
 
-* If you are not familiar with System Analysis and Design, read materials below to get a handle of it.
+If you are not familiar with System Analysis and Design, read materials below to get a handle of it.
 * [Material #1](/assets/001_Introduction.pdf): Introduction
 * [Material #2](/assets/002_agile_history.pdf): Agile History
 * [Material #3](/assets/003_scrum_framework.pdf): Scrum Framework
