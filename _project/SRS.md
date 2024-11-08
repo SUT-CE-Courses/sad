@@ -1,4 +1,3 @@
-
 ---
 type: project
 date: 1403-07-15T8:00:00+4:30
@@ -11,5 +10,4 @@ links:
     - url: "https://apnozhan.com/wp-content/uploads/2020/08/%E2%80%8E%E2%81%A8%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D9%86%DB%8C%D8%A7%D8%B2%D9%85%D9%86%D8%AF%DB%8C%E2%80%8C%D9%87%D8%A7-RFP%E2%81%A9.pdf"
       name: Sample 2
 hide_from_announcments: true
-
 ---
