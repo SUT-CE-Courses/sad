@@ -18,6 +18,10 @@ permalink: /materials/
 ### Git
 * [Git Workshop](https://aparat.com/v/POj9h)
 
+### Infrastructure
+* [Infrastructure Workshop 1](https://drive.google.com/drive/folders/1s8F541D2jHtTjLjxYa9xLxAYf_AM1xpN?usp=sharing)
+* [Infrastructure Workshop 2](https://drive.google.com/drive/folders/1s8F541D2jHtTjLjxYa9xLxAYf_AM1xpN?usp=sharing)
+
 ## Additional Course Materials
 
 If you are not familiar with System Analysis and Design, read materials below to get a handle of it.
