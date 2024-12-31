@@ -9,7 +9,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: /static_files/presentations/11-Introducing MLOps.pdf
+    - url: /static_files/presentations/11-Introducing MLOps.rar
       name: slides
 hide_from_announcments: true
 
