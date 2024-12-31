@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1403-07-15T8:00:00+4:30
+date: 1404-07-15T8:00:00+4:30
 title: Lecture 11
 tldr: "MLOps"
 thumbnail: /static_files/presentations/6-Software Projects.png
