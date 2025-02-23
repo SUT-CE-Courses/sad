@@ -207,7 +207,7 @@ Quizzes will be held as the following table on **13:00** for half an hour and wi
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Midterm</td>
-    <td>1404/02/18 09:00-12:00</td>
+    <td>1404/02/18 15:00-18:00</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 4</td>
