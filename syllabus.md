@@ -238,31 +238,31 @@ TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sh
     <th>Title</th>
   </tr>
   <tr style="background-color: #e0f7fa;">
-    <td>1403/12/05</td>
+    <td>1403/12/08</td>
     <td>Part1</td>
   </tr>
   <tr style="background-color: #ffe0b2;">
-    <td>1403/12/21</td>
+    <td>1404/01/12</td>
     <td>Part2</td>
   </tr>
   <tr style="background-color: #F1C0D5;">
-    <td>1404/01/24</td>
+    <td>1404/01/27</td>
     <td>Part3</td>
   </tr>
-  <tr style="background-color: #c8e6c9;">
-    <td>1404/02/14</td>
-    <td>Part4</td>
-  </tr>
   <tr style="background-color: #E6B7E0;">
-    <td>1404/02/18</td>
+    <td>1404/02/17</td>
     <td>Midterm</td>
   </tr>
+  <tr style="background-color: #c8e6c9;">
+    <td>1404/02/31</td>
+    <td>Part4</td>
+  </tr>
   <tr style="background-color: #FFF3B3">
-    <td>1404/03/04</td>
+    <td>1404/03/07</td>
     <td>Part5</td>
   </tr>
   <tr style="background-color: #F0E1E1;">
-    <td>1404/03/13</td>
+    <td>1404/03/28</td>
     <td>Final</td>
   </tr>
 </table>
