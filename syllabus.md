@@ -230,7 +230,7 @@ Programming assignment submission are not accepted after the solution is release
 
 
 # TA Classes
-TA Classes will be held on to be announced times in room https://vc.sharif.edu/rabiee-ta.
+TA Classes will be held on to be announced times in room https://vc.sharif.edu/ch/maryam.ramezani.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
