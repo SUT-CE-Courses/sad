@@ -7,5 +7,5 @@ thumbnail: /static_files/presentations/lec1.jpg
 links: 
     - url: /static_files/presentations/1-Elementary Row Operations.pdf
       name: slides  
-hide_from_announcments: false
+hide_from_announcments: true
 ---

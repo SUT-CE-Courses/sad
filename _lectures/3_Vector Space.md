@@ -11,6 +11,6 @@ links:
       name: notes  
     - url: /static_files/books/VectorSpace-Haffman.rar
       name: Haffman Book  
-hide_from_announcments: true
+hide_from_announcments: false
 ---
 
