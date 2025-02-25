@@ -230,7 +230,7 @@ Programming assignment submission are not accepted after the solution is release
 
 
 # TA Classes
-TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sharif.edu/rabiee-ta.
+TA Classes will be held on to be announced times in room https://vc.sharif.edu/rabiee-ta.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
@@ -238,7 +238,7 @@ TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sh
     <th>Title</th>
   </tr>
   <tr style="background-color: #e0f7fa;">
-    <td>1403/12/08</td>
+    <td>1403/12/11</td>
     <td>Part1</td>
   </tr>
   <tr style="background-color: #ffe0b2;">
