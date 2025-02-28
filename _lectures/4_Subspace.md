@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/lec4.jpg
 links: 
     - url: /static_files/presentations/4-Subspace.pdf
       name: slides
+    - url: /static_files/books/Subspace-Haffman.pdf
+      name: Subspace-Haffman
 hide_from_announcments: false
 ---
 

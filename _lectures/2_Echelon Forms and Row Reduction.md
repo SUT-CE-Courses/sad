@@ -7,5 +7,7 @@ thumbnail: /static_files/presentations/lec2.jpg
 links: 
     - url: /static_files/presentations/2-Echelon Forms and Row Reduction.pdf
       name: slides  
+    - url: /static_files/books/LinearEquation-David C Lay.pdf
+      name: LinearEquation-David_C_Lay
 hide_from_announcments: true
 ---

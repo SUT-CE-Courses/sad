@@ -9,8 +9,8 @@ links:
       name: slides
 #    - url: /static_files/presentations/3-notes.pdf
 #      name: notes  
-    - url: /static_files/books/VectorSpace-Haffman.rar
-      name: Haffman Book  
+    - url: /static_files/books/VectorSpace-Axler.pdf
+      name: VectorSpace-Axler
 hide_from_announcments: false
 ---
 
