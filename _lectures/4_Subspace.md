@@ -10,7 +10,7 @@ links:
     - url: /static_files/books/Subspace-Haffman.pdf
       name: Subspace-Haffman
     - url: "https://drive.google.com/file/d/1wBcZkyNh6Nyq_L80bbgI4_FplUME-w9_/view?usp=sharing"
-      name: Video
+      name: video
 hide_from_announcments: false
 ---
 
