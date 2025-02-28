@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1403-08-03T8:00:07+4:30
+date: 1404-12-10T12:00:07+4:30
 title: Matrix Rank
 tldr: "Row & Column Spaces, Null Space, Nullity, Rank, Four Fundamental Subspaces"
 thumbnail: /static_files/presentations/lec7.jpg
