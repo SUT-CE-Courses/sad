@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/lec5.jpg
 links: 
     - url: /static_files/presentations/5-Linear Independence.pdf
       name: slides
+    - url: "www.google.com"
+      name: video
 hide_from_announcments: true
 ---
 
