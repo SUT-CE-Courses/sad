@@ -36,27 +36,27 @@ permalink: /syllabus/
         <td>1403/12/05</td>
         <td>S05</td>
         <td rowspan="5">2</td>
-        <td>Independence (Linear and Affine)</td>
+        <td>Linear Independence</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1403/12/07</td>
         <td>S06</td>
-        <td>Independence (Linear and Affine)</td>
+        <td>Linear Independence</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1403/12/12</td>
         <td>S07</td>
-        <td>Bases, Dimension</td>
+        <td>Bases & Dimension</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1403/12/14</td>
         <td>S08</td>
-        <td>Dimension and Rank</td>
+        <td>Matrix Rank</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1403/12/19</td>
         <td>S09</td>
-        <td>Dimension and Rank</td>
+        <td>Matrix Rank</td>
         
     </tr>
     <tr style="background-color:#ffcccb">

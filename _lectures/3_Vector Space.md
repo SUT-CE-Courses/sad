@@ -7,10 +7,10 @@ thumbnail: /static_files/presentations/lec3.jpg
 links: 
     - url: /static_files/presentations/3-Vector Space.pdf
       name: slides
-    - url: /static_files/presentations/3-notes.pdf
-      name: notes  
-    - url: /static_files/books/VectorSpace-Haffman.rar
-      name: Haffman Book  
+#    - url: /static_files/presentations/3-notes.pdf
+#      name: notes  
+    - url: /static_files/books/VectorSpace-Axler.pdf
+      name: VectorSpace-Axler
 hide_from_announcments: false
 ---
 
