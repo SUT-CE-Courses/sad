@@ -199,7 +199,7 @@ Quizzes will be held as the following table on **13:00** for half an hour and wi
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
-    <td>1404/01/17 13:00-13:30</td>
+    <td>1404/01/19 13:00-13:30</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>
