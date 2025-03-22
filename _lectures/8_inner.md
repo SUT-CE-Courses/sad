@@ -7,7 +7,7 @@ thumbnail: /static_files/presentations/lec8.jpg
 links: 
     - url: /static_files/presentations/8-innerproduct Space.pdf
       name: slides
-    - URL: "https://drive.google.com/file/d/1s1xtAVF83szjqJdHvINVG2ZWRTQ8j454/view"
+    - URL: https://drive.google.com/file/d/1s1xtAVF83szjqJdHvINVG2ZWRTQ8j454/view
       name: video  
 hide_from_announcments: true
 ---
