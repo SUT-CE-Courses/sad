@@ -3,7 +3,7 @@ type: taclass
 date: 1404-01-12T8:00:00+4:30
 title: HW2 by Amirali Rostami
 tldr: ""
-thumbnail: /static_files/taclass/p2.jpg
+thumbnail: /static_files/taclass/p1.jpg
 links: 
     - url: /static_files/assignments/LA_HW2_sol.pdf
       name: Solution
