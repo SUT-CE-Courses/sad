@@ -11,6 +11,6 @@ links:
 #      name: notes  
     - url: /static_files/books/VectorSpace-Axler.pdf
       name: VectorSpace-Axler
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 

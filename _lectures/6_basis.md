@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1404-12-10T9:00:07+4:30
+date: 1403-12-10T9:00:07+4:30
 title: Bases and Dimension
 tldr: "Basis, Dimension, Finite Dimensional Subspace, Coordinates"
 thumbnail: /static_files/presentations/lec6.jpg
