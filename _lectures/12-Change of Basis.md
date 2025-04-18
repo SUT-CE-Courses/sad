@@ -7,5 +7,7 @@ thumbnail: /static_files/presentations/lec12.png
 links: 
     - url: /static_files/presentations/12-Change of Basis.pdf
       name: slides
+    - url: "https://drive.google.com/file/d/1PgygAzU7VIx8-UvGKiwhGYvJtw3P0bwB/view"
+      name: video
 hide_from_announcments: false
 ---
