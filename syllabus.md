@@ -120,7 +120,7 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/02/16</td>
         <td>S21</td>
-        <td>Singular Values and Singular Vectors</td>
+        <td>Diagonalization</td>
     </tr>
     <tr style="background-color:#ff6347">
         <td>1404/02/18</td>
@@ -129,17 +129,17 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/02/21</td>
         <td>S22</td>
-        <td>Symmetric Matrices and Quadratic Forms</td>
+        <td>Singular Values and Singular Vectors</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1404/02/23</td>
         <td>S23</td>
-        <td>Diagonalization</td>
+        <td>Matrix Factorization</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1404/02/28</td>
         <td>S24</td>
-        <td>Matrix Factorization</td>
+        <td>Symmetric Matrices and Quadratic Forms</td>
     </tr>    
     <tr style="background-color:#e6e6fa">
         <td>1404/02/30</td>
