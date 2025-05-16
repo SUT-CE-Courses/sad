@@ -3,7 +3,7 @@ type: lecture
 date: 1404-02-27T8:00:07+4:30
 title: Eigenvectors, Eigenvalues, Diagonalization
 tldr: "Eigenvectors, Eigenvalues, Diagonalization"
-thumbnail: /static_files/presentations/lec13.jpg
+thumbnail: /static_files/presentations/lec15.jpg
 links: 
     - url: /static_files/presentations/15-Eigenvectors-Eigenvalues-Diagonalization.pdf
       name: slides
