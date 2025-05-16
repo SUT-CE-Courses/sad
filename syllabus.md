@@ -115,12 +115,12 @@ permalink: /syllabus/
         <td>1404/02/14</td>
         <td>S20</td>
         <td rowspan="7">5</td>
-        <td>Eigenvectors and Eigenvalues</td>
+        <td>Eigenvectors, Eigenvalues, Similarity & Diagonalization</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1404/02/16</td>
         <td>S21</td>
-        <td>Diagonalization</td>
+        <td>Eigenvectors, Eigenvalues, Similarity & Diagonalization</td>
     </tr>
     <tr style="background-color:#ff6347">
         <td>1404/02/18</td>
@@ -134,17 +134,17 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/02/23</td>
         <td>S23</td>
-        <td>SVD</td>
+        <td>Matrix Factorization</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1404/02/28</td>
         <td>S24</td>
-        <td>Matrix Factorization</td>
+        <td>Symmetric Matrices and Quadratic Forms</td>
     </tr>    
     <tr style="background-color:#e6e6fa">
         <td>1404/02/30</td>
         <td>S25</td>
-        <td>Symmetric Matrices and Quadratic Forms</td>
+        <td>SVD</td>
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1404/03/04</td>
