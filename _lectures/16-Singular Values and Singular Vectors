@@ -1,9 +1,9 @@
 ---
 type: lecture
-date: 1404-02-27T8:00:01+4:30
+date: 1404-02-27T8:00:11+4:30
 title: Singular Values and Singular Vectors
 tldr: "Singular Values and Singular Vectors"
-thumbnail: /static_files/presentations/lec13.jpg
+thumbnail: /static_files/presentations/lec17.jpg
 links: 
     - url: /static_files/presentations/16-Singular Values and Singular Vectors.pdf
       name: slides
