@@ -5,7 +5,7 @@ title: HW5 by Amirali Rostami
 tldr: ""
 thumbnail: /static_files/taclass/p1.jpg
 links: 
-    - url: /static_files/assignments/LA_HW5.pdf
+    - url: /static_files/assignments/LA_HW5_sol.pdf
       name: Solution
     - url: "https://drive.google.com/file/d/1hC9DBgp0Falb6qPfcn3vSMCd_36j_z-n/view?usp=sharing"
       name: Video
