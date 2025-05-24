@@ -7,5 +7,7 @@ thumbnail: /static_files/presentations/lec14.png
 links: 
     - url: /static_files/presentations/14-Determinant.pdf
       name: slides
+    - url: /static_files/presentations/DeterminantNote.pdf
+      name: notes
 hide_from_announcments: false
 ---
