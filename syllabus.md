@@ -118,7 +118,7 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
       <td>1404/09/23</td>
       <td>S19</td>
-      <td rowspan="4">5</td>
+      <td rowspan="3">5</td>
       <td>Matrix Factorization</td>
     </tr>
     <tr style="background-color:#e6e6fa">
@@ -133,9 +133,9 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
       <td>1404/09/30</td>
       <td>S21</td>
+      <td></td>
       <td>SVD</td>
     </tr>
-
 
 
     <!-- Part 6 -->
