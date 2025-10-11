@@ -116,25 +116,26 @@ permalink: /syllabus/
 
     <!-- Part 5 -->
     <tr style="background-color:#e6e6fa">
-        <td>1404/09/23</td>
-        <td>S19</td>
-        <td rowspan="3">5</td>
-        <td>Matrix Factorization</td>
+      <td>1404/09/23</td>
+      <td>S19</td>
+      <td rowspan="4">5</td>
+      <td>Matrix Factorization</td>
     </tr>
     <tr style="background-color:#e6e6fa">
-        <td>1404/09/25</td>
-        <td>S20</td>
-        <td>Singular Values and Singular Vectors</td>
+      <td>1404/09/25</td>
+      <td>S20</td>
+      <td>Singular Values and Singular Vectors</td>
     </tr>
     <tr style="background-color:#ff6347">
-        <td>1404/09/27</td>
-        <td colspan="3" style="text-align: center;">Midterm Exam</td>
+      <td>1404/09/27</td>
+      <td colspan="2" style="text-align:center;">Midterm Exam</td>
     </tr>
     <tr style="background-color:#e6e6fa">
-        <td>1404/09/30</td>
-        <td>S21</td>
-        <td>SVD</td>
+      <td>1404/09/30</td>
+      <td>S21</td>
+      <td>SVD</td>
     </tr>
+
 
 
     <!-- Part 6 -->
