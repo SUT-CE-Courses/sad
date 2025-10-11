@@ -128,7 +128,7 @@ permalink: /syllabus/
     </tr>
     <tr style="background-color:#ff6347">
       <td>1404/09/27</td>
-      <td colspan="2" style="text-align:center;">Midterm Exam</td>
+      <td colspan="3" style="text-align:center;">Midterm Exam</td>
     </tr>
     <tr style="background-color:#e6e6fa">
       <td>1404/09/30</td>
