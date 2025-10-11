@@ -90,14 +90,13 @@ permalink: /syllabus/
         <td>S14</td>
         <td>Determinant</td>
     </tr>
-
-    <!-- Part 4 -->
-    <tr style="background-color:#ffebcd">
+    <tr style="background-color:#ffcccb">
         <td>1404/09/09</td>
         <td>S15</td>
         <td rowspan="4">4</td>
         <td>Determinant</td>
     </tr>
+    <!-- Part 4 -->
     <tr style="background-color:#ffebcd">
         <td>1404/09/11</td>
         <td>S16</td>
