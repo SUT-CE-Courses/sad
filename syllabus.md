@@ -67,7 +67,7 @@ permalink: /syllabus/
     <tr style="background-color:#ffcccb">
         <td>1404/08/20</td>
         <td>S10</td>
-        <td rowspan="5">3</td>
+        <td rowspan="6">3</td>
         <td>Linear Transformation</td>
     </tr>
     <tr style="background-color:#ffcccb">
@@ -93,13 +93,13 @@ permalink: /syllabus/
     <tr style="background-color:#ffcccb">
         <td>1404/09/09</td>
         <td>S15</td>
-        <td rowspan="4">4</td>
         <td>Determinant</td>
     </tr>
     <!-- Part 4 -->
     <tr style="background-color:#ffebcd">
         <td>1404/09/11</td>
         <td>S16</td>
+        <td rowspan="3">4</td>
         <td>Eigenvectors, Eigenvalues, Similarity & Diagonalization</td>
     </tr>
     <tr style="background-color:#ffebcd">
