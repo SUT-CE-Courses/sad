@@ -251,4 +251,4 @@ Programming assignment submission are not accepted after the solution is release
 TA classes will be made available to you as recorded sessions through Quera and the course website.
 
 # Site
-You can find all resources and announsments of course on jabrekh.ir
+You can find all resources and announsments of course on [sut-ce-courses.github.io/linearalgebra](https://sut-ce-courses.github.io/linearalgebra/)
