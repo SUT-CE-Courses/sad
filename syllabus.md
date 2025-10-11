@@ -208,19 +208,19 @@ Quizzes will be held as the following table on **12:00** for half an hour and wi
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
-    <td>1404/08/06 13:00-13:30</td>
+    <td>1404/08/06 12:00-12:30</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
-    <td>1404/08/20 13:00-13:30</td>
+    <td>1404/08/20 12:00-12:30</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>
-    <td>1404/09/16 13:00-13:30</td>
+    <td>1404/09/16 12:00-12:30</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 4</td>
-    <td>1404/09/25 13:00-13:30</td>
+    <td>1404/09/25 12:00-12:30</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Midterm</td>
@@ -228,15 +228,15 @@ Quizzes will be held as the following table on **12:00** for half an hour and wi
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 5</td>
-    <td>1404/10/07 13:00-13:30</td>
+    <td>1404/10/07 12:00-12:30</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 6</td>
-    <td>1404/10/21 13:00-13:30</td>
+    <td>1404/10/21 12:00-12:30</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Final</td>
-    <td>1404/11/05 09:00-12:00</td>
+    <td>1404/11/05 15:00-18:00</td>
   </tr>
 </table>
 
