@@ -1,4 +1,4 @@
-<img width="1586" height="81" alt="image" src="https://github.com/user-attachments/assets/c8bac696-9c25-4457-bd71-a5215368ec13" />---
+---
 layout: page
 title: Syllabus
 permalink: /syllabus/
