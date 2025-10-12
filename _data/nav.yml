@@ -15,9 +15,9 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
-- url: /exams/
-  name: Exams
-  icon_class: fas fa-book-reader 
+- url: /project/
+  name: Project
+  icon_class: fas fa-user-graduate
 
 - url: /materials/
   name: Materials
