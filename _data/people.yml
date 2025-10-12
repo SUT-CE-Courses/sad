@@ -1,18 +1,14 @@
 instructors:
-  - name: Hamid R. Rabiee
-    profile_pic: /_images/pp/rabiee.jpg
-    caption: Distinguished Professor, CE804
-    webpage: rabiee@sharif.edu
   - name: Maryam Ramezani
     profile_pic: /_images/pp/ramezani.jpg
     caption: Assistant Professor, CE711
     webpage: maryam.ramezani@sharif.edu
 
 teaching_assistants:
-  - name: Asal Meskin
-    profile_pic: /_images/pp/Asal_Meskin.jpg
-    caption: Head Teaching Assistant
-    webpage: asalmskin82@gmail.com
+  - name: Maedeh Heydari
+    # profile_pic: /_images/pp/placeholder.jpg
+    caption: Teaching Assistant
+    webpage: Maedeh.heydari212@gmail.com
   
     
   
