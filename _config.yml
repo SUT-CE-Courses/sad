@@ -1,6 +1,7 @@
 # Site settings
-course_name: Linear Algebra
-course_description: " This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines. Linear algebra is a branch of mathematics that studies systems of linear equations and the properties of matrices. The concepts of linear algebra are extremely useful in image processing, computer vision, data science, machine learning, bio-informatics, social networks, and neuroscience. Due to its broad range of applications, linear algebra is one of the most widely taught subjects in college-level mathematics."
+course_name: System Analysis and Design
+
+course_description: "Just as solving a mathematical problem requires identifying its complexities and designing appropriate strategies before arriving at a solution, developing computer systems for a diverse user base demands thorough analysis and design. In this course, students will learn essential skills in requirements analysis, feasibility analysis, modeling, process analysis, architecture design, and UI/UX design. Additionally, the course covers planning and management skills necessary for software development, including methodologies, process automation, and project management concepts."
 course_semester: "Fall 2025"
 
 baseurl: "/linearalgebra" # the subpath of your site, e.g. /blog/
