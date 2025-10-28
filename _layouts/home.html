@@ -39,19 +39,13 @@ layout: default
   
       <div style="width:65%; float: left">
         <h2>Teaching Assistants</h2>
-        <div class="profile-pic-gallary">
-          <div class="row">
+        <div class="profile-pic-gallary" style="display: flex; flex-wrap: wrap; gap: 20px;">
             {% for ta in site.data.people.teaching_assistants %}
-            {% assign index = forloop.index %}
-            <div class="image--cover-container">
+            <div class="image--cover-container" style="width: calc(25% - 20px); margin-right: 0;">
               <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
               <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p>
             </div>
-            {% if forloop.index0 != 0 and forloop.index0 % 4 == 0 %}
-              </div><div class="row">
-            {% endif %}
-          {% endfor %}          
-          </div>
+          {% endfor %}
         </div>
       </div>
     </div>
