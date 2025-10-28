@@ -40,15 +40,15 @@ teaching_assistants:
     caption: Teaching Assistant
     webpage: https://www.linkedin.com/in/mohammad-mahdi-akbar-453840280
 
-  - name: Keyhan Masoudi
-    profile_pic: /_images/pp/Keyhan_Masoudi.jpg
-    caption: Teaching Assistant
-    webpage: https://www.linkedin.com/in/keyhan-masoudi-60a6801a1
-
   - name: Aida Jalali
     profile_pic: /_images/pp/Aida_Jalali.jpg
     caption: Teaching Assistant
     webpage: https://www.linkedin.com/in/aidajalali
+
+  - name: Keyhan Masoudi
+    profile_pic: /_images/pp/Keyhan_Masoudi.jpg
+    caption: Teaching Assistant
+    webpage: https://www.linkedin.com/in/keyhan-masoudi-60a6801a1
   
   - name: Ali Bakhtiari
     profile_pic: /_images/pp/Ali_Bakhtiari.jpg

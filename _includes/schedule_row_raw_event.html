@@ -12,6 +12,5 @@
     {{ include.event.date | date: "%H:%M" }}
     {% endif %}
     {% endunless %}
-    <br class="date-spliter" />{{ include.event.date | date: "%A" }}
 </div>
 <div class="col col-2" data-label="Description">{{ include.event.description }}</div>

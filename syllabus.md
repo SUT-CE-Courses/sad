@@ -168,6 +168,8 @@ permalink: /syllabus/
 
 </table>
 
+<br>
+<br>
 
 # Grading Policy
   * Project: 12 points (consisted of three iterations)
