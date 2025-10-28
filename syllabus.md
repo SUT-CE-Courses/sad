@@ -13,38 +13,38 @@ permalink: /syllabus/
     </tr>
 
     <!-- Part 1: Introduction & Project Management -->
-    <tr style="background-color:#ffffe0">
+    <tr style="background-color:#ffe5cc">
         <td>1404/07/20</td>
         <td>S01</td>
         <td rowspan="7">1</td>
         <td>Introduction</td>
     </tr>
-    <tr style="background-color:#ffffe0">
+    <tr style="background-color:#ffe5cc">
         <td>1404/07/22</td>
         <td>S02</td>
         <td>Project vs Product</td>
     </tr>
-    <tr style="background-color:#ffffe0">
+    <tr style="background-color:#ffe5cc">
         <td>1404/07/27</td>
         <td>S03</td>
         <td>RFX</td>
     </tr>
-    <tr style="background-color:#ffffe0">
+    <tr style="background-color:#ffe5cc">
         <td>1404/07/29</td>
         <td>S04</td>
         <td>Project Charter & Plan</td>
     </tr>
-    <tr style="background-color:#ffffe0">
+    <tr style="background-color:#ffe5cc">
         <td>1404/08/04</td>
         <td>S05</td>
-        <td>TBA</td>
+        <td>Designing and Architecting Modern Data Pipelines</td>
     </tr>
-    <tr style="background-color:#ffffe0">
+    <tr style="background-color:#ffe5cc">
         <td>1404/08/06</td>
         <td>S06</td>
         <td>Project Management (WBS, Gantt Chart, ...)</td>
     </tr>
-    <tr style="background-color:#ffffe0">
+    <tr style="background-color:#ffe5cc">
         <td>1404/08/11</td>
         <td>S07</td>
         <td>Project Management</td>
@@ -116,38 +116,38 @@ permalink: /syllabus/
     </tr>
 
     <!-- Part 3: Modeling & Design -->
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#e6ccff">
         <td>1404/09/25</td>
         <td>S20</td>
         <td rowspan="7">3</td>
         <td>Feasibility Analysis</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#e6ccff">
         <td>1404/09/30</td>
         <td>S21</td>
         <td>Use Case Diagram & Activity Diagram</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#e6ccff">
         <td>1404/10/02</td>
         <td>S22</td>
         <td>Product Design</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#e6ccff">
         <td>1404/10/07</td>
         <td>S23</td>
         <td>Product Design</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#e6ccff">
         <td>1404/10/09</td>
         <td>S24</td>
         <td>UI/UX Design</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#e6ccff">
         <td>1404/10/14</td>
         <td>S25</td>
         <td>Patterns and Architecture</td>
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#e6ccff">
         <td>1404/10/16</td>
         <td>S26</td>
         <td>Patterns and Architecture</td>
@@ -166,11 +166,6 @@ permalink: /syllabus/
         <td>DevOps</td>
     </tr>
 
-    <!-- Final Exam -->
-    <tr style="background-color:#ff6347">
-        <td>TBA</td>
-        <td colspan="3" style="text-align: center;">Final Exam</td>
-    </tr>
 </table>
 
 

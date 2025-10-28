@@ -1,8 +1,16 @@
 <div class="col col-1" style="white-space: nowrap;">{{ include.event.name }}</div>
 <div class="col col-1-2" data-label="Date" style="direction: rtl; text-align: center;">
+    {% if include.event.display_date %}
+    {{ include.event.display_date }}
+    {% else %}
     {{ include.event.date | date: site.dateformat }}
+    {% endif %}
     {% unless include.event.hide_time %}
+    {% if include.event.display_time %}
+    {{ include.event.display_time }}
+    {% else %}
     {{ include.event.date | date: "%H:%M" }}
+    {% endif %}
     {% endunless %}
     <br class="date-spliter" />{{ include.event.date | date: "%A" }}
 </div>
