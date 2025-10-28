@@ -176,7 +176,7 @@ permalink: /syllabus/
 
 
 # Grading Policy
-  * Project: 12 points (consisted of several iterations)
+  * Project: 12 points (consisted of three iterations)
   * Midterm Exam: 2 points 
   * Final Exam: 6 points 
   * Total Points: 20 points

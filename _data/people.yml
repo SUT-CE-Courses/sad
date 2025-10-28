@@ -1,4 +1,4 @@
-instructors:
+instructor:
   - name: Maryam Ramezani
     profile_pic: /_images/pp/ramezani.jpg
     caption: Assistant Professor, CE711
@@ -8,7 +8,50 @@ teaching_assistants:
   - name: Maedeh Heydari
     profile_pic: /_images/pp/Maedeh_Heydari.jpg
     caption: Teaching Assistant
-    webpage: Maedeh.heydari212@gmail.com
+    webpage: https://www.linkedin.com/in/maedeh-heydari
   
+  - name: Amir Hossein Ravan Nakhjavani
+    profile_pic: /_images/pp/Amir_Hossein_Ravan_Nakhjavani.jpg
+    caption: Teaching Assistant
+    webpage: https://www.linkedin.com/in/amir-ravan
+
+  - name: Moeein Aali
+    profile_pic: /_images/pp/Moeein_Aali.jpg
+    caption: Teaching Assistant
+    webpage: https://linkedin.com/in/moeein
     
+  - name: Mahdi Mostajeran
+    profile_pic: /_images/pp/Mahdi_Mostajeran.jpg
+    caption: Teaching Assistant
+    webpage: https://www.linkedin.com/in/mahdi-mostajeran-16342b200
+
+  - name: Arshia Dadras
+    profile_pic: /_images/pp/Arshia_Dadras.jpg
+    caption: Teaching Assistant
+    webpage: https://www.linkedin.com/in/arshiadadras
+
+  - name: Arian Noori
+    profile_pic: /_images/pp/Arian_Noori.jpg
+    caption: Teaching Assistant
+    webpage: #
+
+  - name: Mohammad Mahdi Akbar
+    profile_pic: /_images/pp/Mohammad_Mahdi_Akbar.jpg
+    caption: Teaching Assistant
+    webpage: https://www.linkedin.com/in/mohammad-mahdi-akbar-453840280
+
+  - name: Keyhan Masoudi
+    profile_pic: /_images/pp/Keyhan_Masoudi.jpg
+    caption: Teaching Assistant
+    webpage: https://www.linkedin.com/in/keyhan-masoudi-60a6801a1
+
+  - name: Aida Jalali
+    profile_pic: /_images/pp/Aida_Jalali.jpg
+    caption: Teaching Assistant
+    webpage: https://www.linkedin.com/in/aidajalali
   
+    - name: Ali Bakhtiari
+    profile_pic: /_images/pp/Ali_Bakhtiari.jpg
+    caption: Teaching Assistant
+    webpage: https://www.linkedin.com/in/ali-bakhtiari-05179a2aa
+

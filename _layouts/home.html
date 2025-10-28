@@ -25,9 +25,9 @@ layout: default
     <br>
     <div>
       <div style="width:35%; float: left">
-        <h2>Instructors</h2>
+        <h2>Instructor</h2>
         <div class="profile-pic-gallary ">
-          {% for ins in site.data.people.instructors %}
+          {% for ins in site.data.people.instructor %}
           <div class="image--cover-container">
             <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
             <p><a href="mailto:{{ ins.webpage }}">{{ins.name}}</a></p>
@@ -38,7 +38,7 @@ layout: default
       </div>
   
       <div style="width:65%; float: left">
-        <h2>Head Teaching Assistant</h2>
+        <h2>Teaching Assistants</h2>
         <div class="profile-pic-gallary">
           <div class="row">
             {% for ta in site.data.people.teaching_assistants %}
