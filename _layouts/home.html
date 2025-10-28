@@ -43,7 +43,17 @@ layout: default
             {% for ta in site.data.people.teaching_assistants %}
             <div class="image--cover-container" style="width: calc(25% - 20px); margin-right: 0;">
               <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-              <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p>
+              <p>
+                {% if ta.webpage contains 'http' %}
+                  <a href="{{ ta.webpage }}" target="_blank">{{ta.name}}</a>
+                {% elsif ta.webpage contains '@' %}
+                  <a href="mailto:{{ ta.webpage }}">{{ta.name}}</a>
+                {% elsif ta.webpage == '#' %}
+                  {{ta.name}}
+                {% else %}
+                  <a href="{{ ta.webpage }}">{{ta.name}}</a>
+                {% endif %}
+              </p>
             </div>
           {% endfor %}
         </div>
