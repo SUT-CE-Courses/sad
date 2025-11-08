@@ -1,5 +1,6 @@
 ---
 type: raw_event
+event_category: deadline
 date: 2026-02-20T23:59:00+3:30
 display_date: "1404/11/27"
 name: Project Deadline

@@ -1,5 +1,15 @@
-<div class="col col-1" style="white-space: nowrap;">{{ include.event.name }}</div>
-<div class="col col-1-2" data-label="Date" style="direction: rtl; text-align: center;">
+{% if include.event.event_category == 'exam' %}
+  {% assign row_color = '#ffcccc' %}
+{% elsif include.event.event_category == 'release' %}
+  {% assign row_color = '#ccffcc' %}
+{% elsif include.event.event_category == 'deadline' %}
+  {% assign row_color = '#ffffcc' %}
+{% else %}
+  {% assign row_color = 'transparent' %}
+{% endif %}
+<div class="col col-1" style="white-space: nowrap; background-color: {{ row_color }};">{{ include.event.name }}</div>
+<div class="col col-1-2" data-label="Date" style="direction: rtl; text-align: center; background-color: {{ row_color }}; display: flex; justify-content: center; align-items: center;">
+    <span>
     {% if include.event.display_date %}
     {{ include.event.display_date }}
     {% else %}
@@ -12,5 +22,6 @@
     {{ include.event.date | date: "%H:%M" }}
     {% endif %}
     {% endunless %}
+    </span>
 </div>
-<div class="col col-2" data-label="Description">{{ include.event.description }}</div>
+<div class="col col-2" data-label="Description" style="background-color: {{ row_color }};">{{ include.event.description }}</div>
