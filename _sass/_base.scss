@@ -299,12 +299,20 @@ a.tosu {
     }
 
     .table-row-exam {
-        background-color: #f2dede;
+        background-color: #ffcccc !important;
+    }
+
+    .table-row-release {
+        background-color: #ccffcc !important;
+    }
+
+    .table-row-deadline {
+        background-color: #ffffcc !important;
     }
 
     .col-1 {
         padding: 2px;
-        flex-basis: 10%;
+        flex-basis: 15%;
     }
 
     .col-1-2 {
@@ -315,7 +323,7 @@ a.tosu {
 
     .col-2 {
         padding: 2px;
-        flex-basis: 20%;
+        flex-basis: 65%;
     }
 
     .col-3 {
