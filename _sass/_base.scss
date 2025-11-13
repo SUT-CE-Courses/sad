@@ -475,6 +475,13 @@ a.tosu {
         float: none !important;
     }
     
+    .image--cover {
+        width: 80px !important;
+        height: 80px !important;
+        border-radius: 50% !important;
+        object-fit: cover !important;
+    }
+    
     .home > div > div[style*="float: left"] {
         width: 100% !important;
         float: none !important;
