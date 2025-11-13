@@ -311,8 +311,10 @@ a.tosu {
     }
 
     .col-1 {
-        padding: 2px;
+        padding: 2px 10px;
         flex-basis: 15%;
+        display: flex;
+        align-items: center;
     }
 
     .col-1-2 {
@@ -325,8 +327,10 @@ a.tosu {
     }
 
     .col-2 {
-        padding: 2px;
+        padding: 2px 10px;
         flex-basis: 65%;
+        display: flex;
+        align-items: center;
     }
 
     .col-3 {
