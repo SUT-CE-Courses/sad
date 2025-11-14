@@ -5,7 +5,7 @@ title: "Project"
 tldr: "Software Projects"
 thumbnail: /static_files/presentations/lec1.jpg
 links: 
-    - url: /static_files/presentations/1-project.pdf
+    - url: /static_files/presentations/1-Project.pdf
       name: slides
 hide_from_announcments: false
 ---
