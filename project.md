@@ -4,7 +4,4 @@ title: Project
 permalink: /project/
 ---
 
-<!-- ## Request for Proposal (RFP)
-
-
-## Software Requirements Specification (SRS) -->
+📄 **[Project Declaration PDF]({{ site.baseurl }}/static_files/project/project_deceleration.pdf)**
