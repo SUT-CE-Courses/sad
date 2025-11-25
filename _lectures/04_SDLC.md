@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-09T08:00:00+3:30
+date: 2025-11-26T08:00:00+3:30
 title: "SDLC"
 tldr: "Software Development Life Cycle"
 thumbnail: /static_files/thumbnail/lec3.png

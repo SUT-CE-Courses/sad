@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-11-09T08:30:00+3:30
+date: 2025-11-28T08:00:00+3:30
 title: "Methodologies"
 tldr: "Software Methodology and Framework"
 thumbnail: /static_files/thumbnail/lec4.png
